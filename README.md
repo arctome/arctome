@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my friend! 👋
 
 <!--
 **SparklingFun/SparklingFun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a frontend engineer, but I AM really interested in Serverless & Cross-Platform techs, such as Flutter, Electron and Cloudflare Workers.
+
+You can visit my public site [Sparkling.fun](https://sparkling.fun) for project examples, maybe there will have a tutorial post 😄.
+
+> I'm migrating my services these days 🤔, so IF you can't visit, please visit later!
+
+If you have some questions or interest, E-mail me ~
