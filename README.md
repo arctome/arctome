@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a frontend engineer, but I AM really interested in __Serverless & Cross-Platform__ techs, such as __Flutter, Electron and Cloudflare Workers__.
 
-You can visit my public site [Sparkling.fun](https://sparkling.fun) for project examples, maybe there will be a tutorial post 😄.
+You can visit my blog [Sparkling.Land](https://blog.sparkling.land) for my experience and articles, maybe there will be a little bit help 😄.
 
 > I'm migrating my services these days 🤔, so IF you can't visit, please visit later!
 
