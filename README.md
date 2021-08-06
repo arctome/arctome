@@ -6,4 +6,4 @@ You can visit my blog [Arcto's Blog](https://blog.arcto.me) for my experience an
 
 If you have some questions or interest, E-mail me ~
 
-![Arcto's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctome&count_private=true&show_icons=true&theme=onedark)
+![Arcto's GitHub stats](https://github-readme-stats.vercel.app/api?username=arctome&count_private=true&show_icons=true&theme=tokyonight)
